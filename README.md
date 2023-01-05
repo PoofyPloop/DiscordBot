@@ -1,4 +1,5 @@
 # DiscordBot
+Simple discord bot that grabs movie/series and info from imdb api
 
 # to run
 node index.js
